@@ -1,6 +1,7 @@
 # guestbook
-The instance about guestbook via Kuberbetes
-CMD about Kubernetes:
+The instance about guestbook via Kuberbetes.
+
+##################CMD about Kubernetes#################
 # 1.kubectl create -f redis-master-controller.yaml
 # 2.kubectl create -f redis-master-service.yaml
 # 3.kubectl create -f redis-slave-controller.yaml
